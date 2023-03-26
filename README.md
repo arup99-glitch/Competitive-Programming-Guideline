@@ -7,4 +7,6 @@
 
 [Codeforces Profile view and analyze that gives you good understanding on CP](https://youtu.be/Wmygs7w31YQ)
 
+[improve Logic-Building in Programming](https://youtu.be/pkbske0UWnI)
+
 
